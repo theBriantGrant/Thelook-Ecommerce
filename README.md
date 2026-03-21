@@ -1,2 +1,2 @@
 # Thelook-Ecommerce
-SQL for Thelook Ecommerce Dashboard
+Uploaded is the SQL I used to create the tables for Thelook Ecommerce Dashboard. If you have any questions feel free to reach out!
