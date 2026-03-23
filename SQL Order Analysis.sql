@@ -1,4 +1,5 @@
-  SELECT 
+--Selects desired columns to provide data for each order id
+ SELECT 
   o.order_id,
   ROUND(oi.sale_price,2) AS sale_price,
   o.num_of_item,
