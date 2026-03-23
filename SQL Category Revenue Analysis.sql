@@ -1,4 +1,5 @@
-  SELECT
+--The result table identifies key KPIs by category
+ SELECT
   p.category,
   p.name AS product_name,
   ROUND(p.retail_price,2) AS retail_price,
